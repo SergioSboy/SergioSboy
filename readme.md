@@ -55,7 +55,7 @@
 ## My Statistic
 
 [![codewars](https://www.codewars.com/users/SergioSboy/badges/large)](https://www.codewars.com/users/SergioSboy) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SergioSboy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SergioSboy&theme=dark)](https://github.com/SergioSboy/leetcode-stats)
 <br/>
 
   
