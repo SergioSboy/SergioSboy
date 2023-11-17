@@ -52,7 +52,7 @@
 </td></tr></table>  
 
 <br/>  
-<img>https://www.codewars.com/users/SergioSboy/badges/large</img>
+[![codewars](https://www.codewars.com/users/SergioSboy/badges/large)](https://www.codewars.com/users/SergioSboy)  
 
 <br/>  
 
