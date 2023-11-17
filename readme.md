@@ -51,10 +51,11 @@
 
 </td></tr></table>  
 
-<br/>  
-[![codewars](https://www.codewars.com/users/SergioSboy/badges/large)](https://www.codewars.com/users/SergioSboy)  
+<br/>
 
-<br/>  
+[![codewars](https://www.codewars.com/users/SergioSboy/badges/large)]
+
+<br/>
 
   
   
